@@ -28,7 +28,7 @@ When this license requires you to contribute software:
 
 <!-- "Licensing Rule" -->
 
-2.  License that work to the public under these terms, [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html), the latest version of [The Blue Oak Model License](https://spdx.org/licenses/BlueOak-1.0.0.html), or terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notice](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms.
+2.  License that work to the public under these terms, [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html), the latest version of [The Blue Oak Model License](https://spdx.org/licenses/BlueOak-1.0.0.html), or terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notice](#notice), a disclaimer like [No Liability](#no-liability), or both, but no other terms.
 
 <!-- "Directions Rule" -->
 
