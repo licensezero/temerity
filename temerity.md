@@ -1,6 +1,6 @@
 # Temerity Public License
 
-Development Draft
+Version 1.0.0-pre.1
 
 ## Purpose
 
