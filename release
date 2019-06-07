@@ -25,7 +25,7 @@ git add "$text"
 git commit --message "Version $version"
 git tag "$tag"
 
-git push origin "$branch" "$tag"
+git push origin "$tag"
 
 make
 hub browse -- "releases/new?tag=$tag&title=Version%20$version"
