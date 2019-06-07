@@ -12,7 +12,7 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 ## Copyleft
 
-If you rely on this license to develop changes, additions, or other software that you make available to others---by sharing copies with them, making available for them to use, directly or indirectly, or using to process data from or about them---contribute that software.  
+If you rely on this license to develop changes, additions, or other software that you make available to others---by sharing copies with them, making available for them to use, directly or indirectly, or using to process data from or about them---[contribute](#contribute) that software.  
 
 ## Contribute
 
