@@ -1,5 +1,7 @@
 # Temerity Public License
 
+Development Draft
+
 ## Purpose
 
 This license lets you use, study, change, and share this software for free, as long as you contribute software you make with it alike.
