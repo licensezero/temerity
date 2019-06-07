@@ -1,0 +1,31 @@
+#!/bin/bash
+set -e
+
+version=$(echo -n "$1" | sed 's/^v//')
+
+if [ -z "$version" ]; then
+  echo "Usage: <version>" >/dev/stderr
+  exit 1
+fi
+
+if git rev-parse "$version" >/dev/null 2>&1; then
+  echo "Tag $version already exists." >/dev/stderr
+  exit 1
+fi
+
+text=temerity.md
+branch="release-$version"
+tag="v$version"
+
+git checkout master
+git checkout --branch "$branch"
+
+sed --in-place "s/Development Draft/Version $version/" "$text"
+git add "$text"
+git commit --message "Version $version"
+git tag "$tag"
+
+git push origin "$branch" "$tag"
+
+make
+hub browse -- "releases/new?tag=$tag&title=Version%20$version"
