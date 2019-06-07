@@ -6,18 +6,18 @@ build/%.md: %.md | build
 	fmt --width 60 --uniform-spacing < $< > $@
 
 build/%.docx: %.md | build
-	pandoc -o $@ $<
+	pandoc --output $@ $<
 
 build/%.html: %.md | build
-	pandoc -t html5 -o $@ $<
+	pandoc --to html5 --output $@ $<
 
 build/%.pdf: %.md | build
-	pandoc -o $@ $<
+	pandoc --output $@ $<
 
 build:
-	mkdir -p build
+	mkdir build
 
 .PHONY: clean
 
 clean:
-	rm -f build
+	rm --force build
