@@ -32,7 +32,7 @@ When this license requires you to contribute software:
 
 <!-- "Directions Rule" -->
 
-3.  Provide contributors and others to whom you make the software available directions to find the work you published and notice of the terms for it, such as by including notice of a distribution system address with copies of the software or changing the software to give users notice of an address.
+3.  Provide contributors and others to whom you make the software available directions to find the work you published and notice of the terms for it, such as by including notice of a distribution system address with copies of the software, changing the software to give users notice of an address, or answering inquiries from users whose data is processed.
 
 ## Copyright
 
