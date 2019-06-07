@@ -3,7 +3,7 @@ TARGETS=build/temerity.md build/temerity.docx build/temerity.pdf build/temerity.
 all: $(TARGETS)
 
 build/%.md: %.md | build
-	cat $< | fgrep -v "<!--" | sed '/^\s*$$/d' | awk 'ORS="\n\n"' | fmt --width 60 --uniform-spacing > $@
+	cat $< | fgrep -v "<!--" | sed '/^\s*$$/d' | awk 'ORS="\n\n"' | fmt --width 60 --uniform-spacing | perl -pe 'chomp if eof' > $@
 
 build/%.docx: %.md | build
 	pandoc --output $@ $<
