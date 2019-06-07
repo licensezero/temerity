@@ -38,17 +38,25 @@ When this license requires you to contribute software:
 
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
 
+<!-- Identical to the Blue Oak Model License. -->
+
 ## Patent
 
 Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+
+<!-- Identical to the Blue Oak Model License. -->
 
 ## Notice
 
 Ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license.
 
+<!-- Derived from the Blue Oak Model License. -->
+
 ## Reliability
 
 No contributor can revoke this license.
+
+<!-- Identical to the Blue Oak Model License. -->
 
 ## Excuse
 
@@ -57,3 +65,5 @@ If anyone notifies you in writing that you have not complied with [Notice](#noti
 ## No Liability
 
 ***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+
+<!-- Identical to the Blue Oak Model License. -->
