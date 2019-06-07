@@ -18,7 +18,7 @@ When this license requires you to contribute software:
 
 1.  Publish all source code, configuration, and other work needed to use and develop that software as you do, in the preferred forms for making changes, through a freely accessible distribution system widely used for similar software, so others can find and copy it.
 
-2.  License each part of that source code to the public under these terms, [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html), [The Blue Oak Model License 1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html), or terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms.
+2.  License each part of that source code to the public under these terms, [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html), the latest version of [The Blue Oak Model License](https://spdx.org/licenses/BlueOak-1.0.0.html), or terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms.
 
 3.  Provide contributors and others to whom you make the software available directions to find copies the software and notice of required terms, such as by including notice of a distribution system web address in copies of the software.
 
