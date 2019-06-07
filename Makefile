@@ -1,4 +1,4 @@
-TARGETS=build/temerity.md build/temerity.docx build/temerity.pdf build/temerity.html
+TARGETS=build/temerity.md build/temerity.docx build/temerity.pdf build/temerity.html build/temerity.odt
 
 all: $(TARGETS)
 
@@ -6,6 +6,9 @@ build/%.md: %.md | build
 	fmt --width 60 --uniform-spacing < $< > $@
 
 build/%.docx: %.md | build
+	pandoc --output $@ $<
+
+build/%.odt: %.md | build
 	pandoc --output $@ $<
 
 build/%.html: %.md | build
