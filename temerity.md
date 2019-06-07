@@ -20,7 +20,7 @@ When this license requires you to contribute software:
 
 1.  Publish all source code, configuration, and other work needed to use and develop that software as you do, in the preferred forms for making changes, through a freely accessible distribution system widely used for similar software, so others can find and copy it.
 
-2.  License each part of that source code to the public under these terms, [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html), the latest version of [The Blue Oak Model License](https://spdx.org/licenses/BlueOak-1.0.0.html), or terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notices](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms.
+2.  License each part of that source code to the public under these terms, [The BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html), the latest version of [The Blue Oak Model License](https://spdx.org/licenses/BlueOak-1.0.0.html), or terms with substantially the same legal effect as [Copyright](#copyright), [Patent](#patent), and [Reliability](#reliability), and optionally a rule like [Notice](#notices), a disclaimer like [No Liability](#no-liability), or both, but no other terms.
 
 3.  Provide contributors and others to whom you make the software available directions to the materials you published and notice of the terms for them, such as by including notice of a distribution system web address in copies of the software.
 
@@ -32,7 +32,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
 
-## Notices
+## Notice
 
 Ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license.
 
@@ -42,7 +42,7 @@ No contributor can revoke this license.
 
 ## Excuse
 
-If anyone notifies you in writing that you have not complied with [Notices](#notices) or [Copyleft](#copyleft), you can keep your license by taking all practical steps to comply within 30 days after the notice.  Otherwise, your license ends immediately.
+If anyone notifies you in writing that you have not complied with [Notice](#notices) or [Copyleft](#copyleft), you can keep your license by taking all practical steps to comply within 30 days after the notice.  Otherwise, your license ends immediately.
 
 ## No Liability
 
