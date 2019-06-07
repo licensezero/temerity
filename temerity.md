@@ -8,7 +8,7 @@ This license lets you use, study, change, and share this software for free, as l
 
 In order to receive this license, you must agree to its rules.  The rules of this license are both strict obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
-## Reciprocity
+## Copyleft
 
 If you rely on this license to develop changes, additions, or other software that you make available to others---by sharing copies with them, making available for them to use, directly or indirectly, or using to process data from or about them---contribute that software.  
 
